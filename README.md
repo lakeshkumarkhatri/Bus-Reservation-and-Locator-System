@@ -25,3 +25,9 @@ at **Sukkur IBA University**.
 - Academic Software Engineering Documentation
 
 > Note: This repository focuses on **analysis and design**, not implementation.
+
+## Academic Context
+- Course: Software Engineering
+- Institution: Sukkur IBA University
+- Deliverables: SRS & SDS documents
+- Project Type: Analysis and Design (No implementation)
